@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact name="lean:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lean_jar</output-path>
+    <root id="root">
+      <element id="archive" name="lean.jar">
+        <element id="module-output" name="lean" />
+      </element>
+    </root>
+  </artifact>
+</component>
