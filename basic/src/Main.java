@@ -12,6 +12,7 @@ import org.lean.ProcessControl;
 import org.lean.Input;
 import org.lean.UseArray;
 import org.lean.javaclass.ClassDemo;
+import org.lean.javacoreclass.JavaCoreClass;
 
 public class Main {
     /*
@@ -30,6 +31,8 @@ public class Main {
         new ProcessControl().show();
         new UseArray().show();
         new ClassDemo().show();
+
+        new JavaCoreClass().show();
 
         //new Input().show();
     }
